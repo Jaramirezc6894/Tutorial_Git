@@ -1,1 +1,3 @@
 Recordar que se tiene que hacer el cruce de información para el query
+
+Se hara otra modificación al archivo para realizar un commit mal escrito y reparar ese commit
